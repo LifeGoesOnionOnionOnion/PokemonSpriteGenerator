@@ -1,0 +1,31 @@
+body{
+    align-items: center;
+    background-color:rgb(20, 20, 20);
+}
+#pokemonName{
+    height: 10%;
+    width: 70;
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+    font-size: 2em;
+    padding: 0.8%;
+    border-radius: 10px;
+    border-style:outset;
+
+}
+button{
+    padding: 20px 40px;
+    font-size: large;
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+}
+#pokemonSprite{
+    margin: auto;
+    margin-top: 30px;
+    transform: scale(2);
+}
