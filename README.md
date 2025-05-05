@@ -1,2 +1,2 @@
 Click to open:
-https://ak-shit.github.io/PokemonSpriteGenerator/
+https://lifegoesoniononiononion.github.io/PokemonSpriteGenerator/
